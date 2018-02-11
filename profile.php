@@ -62,8 +62,6 @@ include("functions.php");
 		<br/> 
 </div>
 
-<!-- <div> <?php echo "<img src='uploads/$id.jpg'>" ?> </div> -->
-
 
 
 		
@@ -199,9 +197,7 @@ include("functions.php");
 
 						<span style="background-color: #339966; padding-right: 600pt;"></span>			
 
-				<!-- 	<div style="display: inline-block; background-color: ; "><fieldset style="float: left; background-color: #2F4F4F;">Active 	Investments<span style="background-color: #BDB76B; padding: 2px;">::</span></fieldset> <div style="background: #C71585 ; display: inline-block;"><fieldset style="float: right;"> <?php echo  "$b " ; echo "BTC"; ; ?> </fieldset> </div> 
-					</div>	
- -->
+				
 					
 		</fieldset><br>
 
